@@ -72,6 +72,16 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+<img width="962" height="562" alt="Screenshot 2026-11-02 110013" src="https://github.com/user-attachments/assets/44e4caaa-b391-4400-8dd9-c7459cbcd454" />
+<img width="958" height="562" alt="Screenshot 2026-11-02 110027" src="https://github.com/user-attachments/assets/877615fe-d9d9-4822-aeec-434e30d438f8" />
+
+<img width="888" height="728" alt="Screenshot 2026-11-02 110049" src="https://github.com/user-attachments/assets/1ebd242c-57c8-4b13-a7a6-9e79d0814ea7" />
+<img width="1075" height="641" alt="Screenshot 2026-11-02 110119" src="https://github.com/user-attachments/assets/e3977701-6e13-4d16-8015-512684a719b0" />
+<img width="1104" height="1001" alt="Screenshot 2026-11-02 110615" src="https://github.com/user-attachments/assets/96db554a-3a14-4914-aae5-71a4992ec704" />
+<img width="1102" height="1006" alt="Screenshot 2026-11-02 110806" src="https://github.com/user-attachments/assets/1b64f47c-901e-41a4-8acf-14a4da204072" />
+<img width="832" height="523" alt="Screenshot 2026-11-02 110927" src="https://github.com/user-attachments/assets/6fffb20c-5011-4084-b3b1-d2acf851372c" />
+<img width="799" height="911" alt="Screenshot 2026-11-02 110947" src="https://github.com/user-attachments/assets/5521561e-294c-44eb-a2d5-b59dadde9262" />
+<img width="1682" height="1022" alt="Screenshot 2026-11-02 111048" src="https://github.com/user-attachments/assets/1514e817-a843-4afa-8682-2dc4d7f6ed7c" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
